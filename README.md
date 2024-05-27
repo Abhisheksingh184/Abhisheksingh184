@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Competative programming and Web development.
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me singhshek58@gmail.com
 - 😄 Pronouns: Abhi
 - ⚡ Fun fact: Believe
